@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Countdown")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aaac9b5324aa603196a3f0fca367154e40095aef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6bd669d3f208947f95ead17725141f45b04ed3e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Countdown")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Countdown")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

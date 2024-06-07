@@ -1,0 +1,15 @@
+C:\Users\sabrine.marques\source\repos\estudos-csharp\HtmlEditor\bin\Debug\net8.0\HtmlEditor.exe
+C:\Users\sabrine.marques\source\repos\estudos-csharp\HtmlEditor\bin\Debug\net8.0\HtmlEditor.deps.json
+C:\Users\sabrine.marques\source\repos\estudos-csharp\HtmlEditor\bin\Debug\net8.0\HtmlEditor.runtimeconfig.json
+C:\Users\sabrine.marques\source\repos\estudos-csharp\HtmlEditor\bin\Debug\net8.0\HtmlEditor.dll
+C:\Users\sabrine.marques\source\repos\estudos-csharp\HtmlEditor\bin\Debug\net8.0\HtmlEditor.pdb
+C:\Users\sabrine.marques\source\repos\estudos-csharp\HtmlEditor\obj\Debug\net8.0\HtmlEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabrine.marques\source\repos\estudos-csharp\HtmlEditor\obj\Debug\net8.0\HtmlEditor.AssemblyInfoInputs.cache
+C:\Users\sabrine.marques\source\repos\estudos-csharp\HtmlEditor\obj\Debug\net8.0\HtmlEditor.AssemblyInfo.cs
+C:\Users\sabrine.marques\source\repos\estudos-csharp\HtmlEditor\obj\Debug\net8.0\HtmlEditor.csproj.CoreCompileInputs.cache
+C:\Users\sabrine.marques\source\repos\estudos-csharp\HtmlEditor\obj\Debug\net8.0\HtmlEditor.sourcelink.json
+C:\Users\sabrine.marques\source\repos\estudos-csharp\HtmlEditor\obj\Debug\net8.0\HtmlEditor.dll
+C:\Users\sabrine.marques\source\repos\estudos-csharp\HtmlEditor\obj\Debug\net8.0\refint\HtmlEditor.dll
+C:\Users\sabrine.marques\source\repos\estudos-csharp\HtmlEditor\obj\Debug\net8.0\HtmlEditor.pdb
+C:\Users\sabrine.marques\source\repos\estudos-csharp\HtmlEditor\obj\Debug\net8.0\HtmlEditor.genruntimeconfig.cache
+C:\Users\sabrine.marques\source\repos\estudos-csharp\HtmlEditor\obj\Debug\net8.0\ref\HtmlEditor.dll
