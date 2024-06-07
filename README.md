@@ -5,5 +5,6 @@ Os projetos são:
 - Calculadora
 - Cronômetro 
 - Editor de Texto
+- HTML Editor ( só funciona a tag < strong >)
 
 Com base no curso: https://balta.io/cursos/fundamentos-csharp
